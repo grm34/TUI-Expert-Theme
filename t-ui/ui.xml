@@ -30,7 +30,7 @@
 <storage_index value="4"/>
 <network_index value="5"/>
 <notes_index value="6"/>
-<status_lines_alignment value="-1,-1,-1,-1,-1,-1&#10;,-1,-1,-1"/>
+<status_lines_alignment value="-1,-1,-1,-1,-1,-1,-1,-1,-1"/>
 <input_prefix value=""/>
 <input_root_prefix value=""/>
 <display_margin_mm value="1,1,0,0"/>
