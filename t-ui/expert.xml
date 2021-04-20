@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EXPERT>
+<show_help value="false"/>
+<show_call value="true"/>
+<show_exit value="true"/>
+<exit_password value=""/>
+<use_root value="false"/>
+<numbering_notes value="true"/>
+<custom_command value="echo °C"/>
+<custom_command_timeout value="60"/>
+<custom_command_size value="13"/>
+<show_custom_command value="true"/>
+<custom_command_index value="7"/>
+<termux_timeout value="300"/>
+</EXPERT>

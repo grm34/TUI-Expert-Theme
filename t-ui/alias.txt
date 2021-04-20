@@ -1,0 +1,11 @@
+=Fennec
+=Telegram
+=Signal
+=Tutanota
+=Spotify
+=NewPipe
+=Gallery
+=Files
+=Settings
+=GitTouch
+=restart
