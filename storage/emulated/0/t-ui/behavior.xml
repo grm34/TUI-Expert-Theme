@@ -23,7 +23,7 @@
 <battery_format value=" Battery: %([charging] /)%v%"/>
 <storage_format value=" Storage: %iavgb GB / %itotgb GB (%iav%%)"/>
 <network_info_format value=" %(WiFi - %wn/%[Mobile Data: %d3/No Internet access])"/>
-<input_format value="%t1 %p %i"/>
+<input_format value="%t1 - Run: %i"/>
 <output_format value="%o"/>
 <session_info_format value="%u@%d:%p"/>
 <enable_app_launch value="true"/>
@@ -43,7 +43,7 @@
 <tui_notification_title value="T-UI"/>
 <tui_notification_subtitle value="T-UI is running"/>
 <tui_notification_click_cmd value=""/>
-<tui_notification_click_showhome value="true"/>
+<tui_notification_click_showhome value="false"/>
 <tui_notification_lastcmds_size value="5"/>
 <tui_notification_lastcmds_updown value="false"/>
 <tui_notification_priority value="0"/>
