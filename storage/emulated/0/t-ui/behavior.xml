@@ -14,7 +14,7 @@
 <clear_after_cmds value="-1"/>
 <clear_after_seconds value="-1"/>
 <max_lines value="-1"/>
-<time_format value=" d MMM yyyy@HH:mm:ss"/>
+<time_format value=" d MMM yyyy@[HH:mm:ss]"/>
 <time_format_separator value="@"/>
 <battery_medium value="50"/>
 <battery_low value="15"/>
