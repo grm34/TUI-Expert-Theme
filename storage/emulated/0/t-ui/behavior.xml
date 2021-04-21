@@ -24,7 +24,7 @@
 <storage_format value=" Storage: %iavgb GB / %itotgb GB (%iav%%)"/>
 <network_info_format value=" %(WiFi - %wn/%[Mobile Data: %d3/No Internet access])"/>
 <input_format value="%t1 Launcher: %i"/>
-<output_format value=" %o"/>
+<output_format value="%o"/>
 <session_info_format value="%u@%d:%p"/>
 <enable_app_launch value="true"/>
 <app_launch_format value="--&gt; %a"/>
