@@ -23,7 +23,7 @@
 <battery_format value=" Battery: %([charging] /)%v%"/>
 <storage_format value=" Storage: %iavgb GB / %itotgb GB (%iav%%)"/>
 <network_info_format value=" %(WiFi - %wn/%[Mobile Data: %d3/No Internet access])"/>
-<input_format value="[%t1] %p %i"/>
+<input_format value="%t1 %p %i"/>
 <output_format value="%o"/>
 <session_info_format value="%u@%d:%p"/>
 <enable_app_launch value="true"/>
