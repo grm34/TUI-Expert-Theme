@@ -3,7 +3,7 @@
 <input_color value="#ff00ff00"/>
 <output_color value="#ffffffff"/>
 <bg_color value="#ff000000"/>
-<device_color value="white"/>
+<device_color value="#ffffffff"/>
 <battery_color_high value="#4CAF50"/>
 <battery_color_medium value="#FFEB3B"/>
 <battery_color_low value="#FF5722"/>
