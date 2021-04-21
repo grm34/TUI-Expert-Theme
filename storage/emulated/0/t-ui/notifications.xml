@@ -3,7 +3,7 @@
 <show_notifications value="true"/>
 <app_notification_enabled_default value="true"/>
 <default_notification_color value="#00FF00"/>
-<notification_format value="%t1 %app: %[100][teal]title > %[100][white]text"/>
+<notification_format value="%t1 %app: %[100][teal]title%n    %[100][white]text"/>
 <click_notification value="true"/>
 <long_click_notification value="true"/>
 <notification_popup_exclude_app value="true"/>
